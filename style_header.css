@@ -1,0 +1,16 @@
+body
+    {
+        text-align : center;
+        padding : 1em;
+        clear : left;
+        font-family:'Tangerine', sans-serif;
+        font-weight: 800;
+        text-shadow: 8px 8px 5px #808B96; 
+
+        background-size: auto;
+
+        background-attachment: fixed;
+
+    }
+
+    
